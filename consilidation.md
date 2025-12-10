@@ -1,4 +1,4 @@
-**Exit Ticket Reflection**
+**Consilidation 3 Reflection**
 
 The completion of Marwick's lithic analysis data replication assignment represents my most important accomplishment from this course. The assignment caught my attention because it showed my ability to recognize the difference between simply reproducing something and being able to actually replicate it. The experience showed me how digital archaeology relates to computer science through unexpected connections.
 
@@ -93,3 +93,25 @@ Looking back across my journals, errors, wins, and missteps, the biggest differe
 Replication is the mechanism that makes this possible.
 My earlier work in the class was focused on making things “work.”
 My later work is now focused on making things visible. That feels like real progress.
+
+
+
+
+
+**Overall Evolution of My Thinking Across the Course**
+
+Looking back through all of my earlier work, I can see a clear progression in how I think about digital archaeology. I treated my first assignments as straightforward technical work which required me to achieve tool functionality. The final understanding I gained showed that digital archaeology requires researchers to reveal and analyze the human choices which affect all datasets and models and analytical methods.
+
+The DEBS schema caused me difficulties during Week 2 so I discovered that all classification systems contain built-in biases. The system fails to understand the full significance of these symbols when it is used to analyze cross-topped pillars which demonstrated to me how digital frameworks can eliminate cultural elements instead of maintaining them.
+
+The Harris Matrix exercise from Week 3 introduced new perspectives to my understanding. The dataset development process requires us to decide which observations we will notice before we start recording data. The process of constructing archaeological data became clear to me through this statement.
+
+The lesson became clear to me during Week 4 when I observed how numbers failed to preserve the presence of absent individuals and rocks. The lack of weathered stones and unmarked graves establishes a story which demonstrates that these communities used to exist. The process of counting showed me how it can lead to the complete disappearance of entire communities from sight.
+
+I started to evaluate models more thoroughly during Weeks 7 and 8. I used simulations and AI to create content which explained that mathematical and computational models show the specific measurements which researchers choose to study. The model results demonstrate how our selection of data points affects the results instead of showing any absolute factual information.
+
+The final week of Week 11 showed me that code execution does not constitute replication because it involves more than simply running the program again. The replication process shows all assumptions which exist in the workflow together with all interpretive choices that I normally hide from view. The process of digital archaeology became clear to me after I discovered that researchers must demonstrate their work instead of seeking flawless results. The focus of my work shifted from producing results to understanding the logical basis which led to those results.
+
+Digital archaeology now appears to me as a research approach which demands full disclosure of all unknowns and complete exposure of all analytical assumptions during investigations into digital system impacts on narrative creation.
+<img width="468" height="611" alt="image" src="https://github.com/user-attachments/assets/6c918b8d-1c4a-47bc-937b-c6c13ee7e59f" />
+
