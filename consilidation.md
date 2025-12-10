@@ -113,5 +113,5 @@ I started to evaluate models more thoroughly during Weeks 7 and 8. I used simula
 The final week of Week 11 showed me that code execution does not constitute replication because it involves more than simply running the program again. The replication process shows all assumptions which exist in the workflow together with all interpretive choices that I normally hide from view. The process of digital archaeology became clear to me after I discovered that researchers must demonstrate their work instead of seeking flawless results. The focus of my work shifted from producing results to understanding the logical basis which led to those results.
 
 Digital archaeology now appears to me as a research approach which demands full disclosure of all unknowns and complete exposure of all analytical assumptions during investigations into digital system impacts on narrative creation.
-<img width="468" height="611" alt="image" src="https://github.com/user-attachments/assets/6c918b8d-1c4a-47bc-937b-c6c13ee7e59f" />
+
 
